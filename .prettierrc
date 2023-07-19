@@ -1,0 +1,11 @@
+{
+	"printWidth": 100,
+	"tabWidth": 4,
+	"useTabs": true,
+	"trailingComma": "none",
+	"singleQuote": true, //使用单引号替代双引号
+	"vueIndentScriptAndStyle": true,
+	"semi": true, //自动添加结尾的分号
+	"bracketSpacing": true,
+	"arrowParens": "avoid"
+}
